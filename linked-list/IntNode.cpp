@@ -1,5 +1,4 @@
 #include "IntNode.h"
-#include <iostream>
 
 using namespace std;
 

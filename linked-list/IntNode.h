@@ -1,4 +1,5 @@
 #include "AbstractNode.h"
+#include <iostream>
 
 #ifndef INTNODE_H
 #define INTNODE_H

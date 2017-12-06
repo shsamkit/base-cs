@@ -1,4 +1,5 @@
 #include "AbstractNode.h"
+#include <iostream>
 
 #ifndef LINKEDLIST_H
 #define LINKEDLIST_H
