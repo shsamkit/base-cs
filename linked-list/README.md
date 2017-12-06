@@ -1,5 +1,5 @@
 ## How to run
 - Compile
-    ```g++ linked-lists.cpp AbstractNode.cpp IntNode.cpp LinkedList.cpp -o linked-lists.out```
+    ```g++ linked-lists-main.cpp AbstractNode.cpp IntNode.cpp LinkedList.cpp -o linked-lists.out```
 - Run
-    `./linked-lists.out`    
+    `./linked-lists.out`
